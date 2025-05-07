@@ -14,7 +14,7 @@ https://agro-mu-flax.vercel.app/
 - **Routing:** React Router DOM
 - **HTTP Requests:**  Fetch API
 - **State Management:** React Hooks (`useState`, `useEffect`)
-- **Styling:** CSS /
+- **Styling:** CSS 
 - **Form Handling:** React Forms
 - **Deployment:**  Vercel 
 
