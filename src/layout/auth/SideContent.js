@@ -60,7 +60,7 @@ export default function SideContent() {
 
       <Divider style={{ margin: '40px 0' }} />
       <div style={{ textAlign: 'center' }}>
-        <Footer />
+       /* <Footer />*/
       </div>
     </Content>
   );
